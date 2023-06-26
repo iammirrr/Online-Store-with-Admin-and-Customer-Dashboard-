@@ -9,7 +9,8 @@ Technologies Used:
     PHP: PHP is utilized for the server-side scripting, enabling dynamic functionality and seamless integration with databases.
 
 Compatibility:
-The Online Store HTML CSS PHP Project has been optimized for compatibility with different web browsers. It is particularly well-suited for Mozilla Firefox, ensuring optimal performance and a smooth browsing experience.
+    The Online Store HTML CSS PHP Project has been optimized for compatibility with different web browsers. It is particularly well-suited for Mozilla Firefox, ensuring      
+    optimal performance and a smooth browsing experience.
 
 To successfully set up the project, please follow the provided instructions carefully:
 
