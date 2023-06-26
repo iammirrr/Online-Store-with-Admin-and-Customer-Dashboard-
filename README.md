@@ -8,15 +8,12 @@ Technologies Used:
     CSS: CSS is employed to style and enhance the visual presentation of the project, providing an appealing and user-friendly interface.
     PHP: PHP is utilized for the server-side scripting, enabling dynamic functionality and seamless integration with databases.
 
-Compatibility:
-    The Online Store HTML CSS PHP Project has been optimized for compatibility with different web browsers. It is particularly well-suited for Mozilla Firefox, ensuring      
-    optimal performance and a smooth browsing experience.
-
 To successfully set up the project, please follow the provided instructions carefully:
 
     Copy all the files and folders exactly as they are to the "htdocs" directory within your XAMPP folder.
     Import the "database.sql" file into your phpMyAdmin, ensuring that you create an empty database with the name "database" before performing the import. It is essential to retain the original name for seamless functionality.
     Launch XAMPP and navigate to the location where you have copied the project files.
+	This is tested with Firefox browser use that for best results.
     Enjoy utilizing the features and functionalities of the Online Store HTML CSS PHP Project, which can be accessed through the provided website.
 
 Furthermore, I would like to highlight that this project is available on GitHub, where it is intended for public use. By making it freely accessible, I aim to encourage individuals to explore and benefit from the project's offerings.
