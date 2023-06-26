@@ -2,7 +2,7 @@
 
 I am pleased to introduce a project that I have personally developed, which can be accessed through my website at www.iammirrr.com. This project is a comprehensive Online Store HTML CSS PHP Project featuring both an Admin and Customer Dashboard, designed to cater to the needs of individuals interested in establishing an online retail presence.
 
-Technologies Used:
+Technologies used:
 
     HTML: The project utilizes HTML for structuring the web pages, ensuring a well-organized and semantic layout.
     CSS: CSS is employed to style and enhance the visual presentation of the project, providing an appealing and user-friendly interface.
